@@ -283,6 +283,14 @@ export const ResumeData = {
           class: "devicon-dotnetcore-plain",
           level: "100"
         }, {
+          name: "Spring Boot",
+          class: "devicon-spring-plain",
+          level: "100"
+        }, {
+          name: "Java",
+          class: "devicon-java-plain",
+          level: "100"
+        }, {
           name: "Django",
           class: "devicon-django-plain",
           level: "100"
