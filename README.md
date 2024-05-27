@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 Hi,
-I am An, a passionate full-stack software engineer with expertise in front-end and back-end technologies. I thrive on creating innovative solutions to complex problems, crafting clean and efficient code. With proficiency in multiple programming languages, frameworks, and databases, I develop scalable applications that deliver exceptional user experiences. Stay updated with the latest advancements in technology, I am constantly improving my coding skills. Coding is not just my profession, but my true passion that drives me to create elegant solutions with a positive impact.
+My name is Artur. I am a Senior Full-Stack Developer with a passion for crafting innovative web and mobile applications. With a comprehensive skill set spanning frontend and backend technologies, I excel in every phase of project development, from conceptualization to deployment. My track record demonstrates a commitment to delivering superior solutions on time, even in high-pressure environments. I am driven by a desire to leverage my expertise in software development to create impactful solutions that exceed expectations.
 
 
 ### Technologies Used
@@ -9,6 +9,6 @@ I am An, a passionate full-stack software engineer with expertise in front-end a
 
 ## Live link
 
-[https://welcometomyportfolioo.netlify.app/](https://welcometomyportfolioo.netlify.app/)
+[https://softbesta.github.io/OnePagePortfolio/](https://softbesta.github.io/OnePagePortfolio/)
 
 

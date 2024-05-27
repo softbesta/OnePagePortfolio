@@ -8,7 +8,7 @@ export const ResumeData = {
   about: {
     sectionTitle: 'About me',
     description_header: 'Hi',
-    description_content: `I am a seasoned Senior Full-Stack Developer with a passion for crafting innovative web and mobile
+    description_content: `I am a Senior Full-Stack Developer with a passion for crafting innovative web and mobile
     applications. With a comprehensive skill set spanning frontend and backend technologies, I excel in
     every phase of project development, from conceptualization to deployment. My track record
     demonstrates a commitment to delivering superior solutions on time, even in high-pressure
@@ -29,8 +29,8 @@ export const ResumeData = {
         "images/portfolio/image4.png",
         "images/portfolio/image5.png",
       ],
-      liveUrl: "https://",
-      gitUrl: "https://",
+      liveUrl: "https://softbesta.github.io/OnePagePortfolio/",
+      gitUrl: "https://github.com/softbesta/OnePagePortfolio/",
       technologies: [
         {
           class: "devicon-react-original",
