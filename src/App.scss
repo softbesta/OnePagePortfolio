@@ -18,7 +18,8 @@ header {
   min-height: 350px;
   width: 100%;
   // Light theme color
-  background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  // background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  background-image: radial-gradient( circle farthest-corner at 11.7% 80.6%,  rgba(249,185,255,1) 0%, rgba(177,172,255,1) 49.3%, rgba(98,203,255,1) 89% );
   background-size: cover;
   text-align: center;
   overflow: hidden;
@@ -127,7 +128,8 @@ header {
 // Portfolio Section
 
 #portfolio {
-  background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  // background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  background-image: radial-gradient( circle farthest-corner at 11.7% 80.6%,  rgba(249,185,255,1) 0%, rgba(177,172,255,1) 49.3%, rgba(98,203,255,1) 89% );
   padding-bottom: 5%;
 
   .portfolio-item {
@@ -258,7 +260,8 @@ header {
 
 #experience {
 
-  background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  // background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+  background-image: radial-gradient( circle farthest-corner at 11.7% 80.6%,  rgba(249,185,255,1) 0%, rgba(177,172,255,1) 49.3%, rgba(98,203,255,1) 89% );
 
   .experience-icon {
     font-size: 170%;
