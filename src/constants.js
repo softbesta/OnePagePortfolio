@@ -20,14 +20,12 @@ export const ResumeData = {
     sectionTitle: 'Projects',
     projects: [{
       title: "My Portfolio",
-      startDate: "2023",
+      startDate: "2024",
       description: "Hello! This is my portfolio, please take a look of it. Thank You :).",
       images: [
         "images/portfolio/image1.png",
         "images/portfolio/image2.png",
         "images/portfolio/image3.png",
-        "images/portfolio/image4.png",
-        "images/portfolio/image5.png",
       ],
       liveUrl: "https://softbesta.github.io/OnePagePortfolio/",
       gitUrl: "https://github.com/softbesta/OnePagePortfolio/",
@@ -80,6 +78,7 @@ export const ResumeData = {
         "images/chemfum/image4.png",
         "images/chemfum/image1.png",
         "images/chemfum/image2.png",
+        "images/chemfum/image5.png",
         "images/chemfum/image3.png",
       ],
       liveUrl: "https://softbesta.github.io/chemistry-web/",
@@ -146,7 +145,7 @@ export const ResumeData = {
         "images/vegtravel/image2.png",
         "images/vegtravel/image3.png",
         "images/vegtravel/image4.png",
-
+        "images/vegtravel/image5.png",
       ],
       liveUrl: "https://vegvisits.com/",
       technologies: [
