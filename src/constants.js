@@ -132,7 +132,10 @@ export const ResumeData = {
     }, {
       title: "My JAM",
       startDate: "2023",
-      description: "Introducing My JAM, a full-stack music application that offers an extensive collection of tracks, sounds, and mixes with over 3 million options for users to choose from. Developed with React for front-end and Express for back-end, My JAM also utilizes third-party APIs to provide users with a seamless and engaging listening experience. The app features robust user authentication and data protection through the implementation of JSON Web Tokens (JWT), ensuring that sensitive user data is always kept secure. Thanks to its top-notch security and vast selection of music, My JAM has increased customer satisfaction by an impressive 98%.",
+      description: `Introducing My JAM, a full-stack music application designed specifically for music freelancers. This project began with the idea of creating a comprehensive platform offering an extensive collection of tracks, sounds, and mixes—boasting over 3 million options for users to explore.
+      My JAM is developed using React for the front-end and Express for the back-end, ensuring a smooth and responsive user experience. By integrating third-party APIs, the app delivers a seamless and engaging listening experience.
+      Security is a top priority in My JAM. The application features robust user authentication and data protection through the implementation of JSON Web Tokens (JWT), ensuring that sensitive user data remains secure at all times.
+      `,
       images: [
         "images/myJam/image1.png",
         "images/myJam/image3.png",
