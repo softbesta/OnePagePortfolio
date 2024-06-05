@@ -44,31 +44,59 @@ export const ResumeData = {
         },
       ]
     }, {
-      title: "Crypto Tracker",
-      startDate: "2022",
-      description: "Crypto Tracker is a sleek and user-friendly web app that provides real-time tracking and analysis of popular cryptocurrencies. With live price data, historical charts, Crypto Tracker is a reliable tool for crypto enthusiasts to monitor and manage their investments effectively.",
+      title: "Vegvisits",
+      startDate: "2024",
+      description: "This is an online booking platform for that connects travelers with vegan and vegetarian locals offering accommodations.",
       images: [
-        "images/crypto/image1.png",
-        "images/crypto/image2.png",
-        "images/crypto/image3.png",
-        "images/crypto/image4.png",
-        "images/crypto/image5.png"
+        "images/vegtravel/image1.png",
+        "images/vegtravel/image2.png",
+        "images/vegtravel/image3.png",
+        "images/vegtravel/image4.png",
+        "images/vegtravel/image5.png",
       ],
-      liveUrl: "https://",
-      gitUrl: "https://",
+      liveUrl: "https://vegvisits.com/",
       technologies: [
         {
-          class: "devicon-react-original",
-          name: "React"
+          name: "Next",
+          class: "devicon-nextjs-original",
+          level: "100"
+        },
+        {
+          class: "devicon-typescript-plain",
+          name: "Typescript"
         },
         {
           class: "devicon-javascript-plain",
           name: "JavaScript"
         },
         {
+          name: "MUI",
           class: "devicon-materialui-plain",
-          name: "MaterialUI"
-        }
+          level: "100"
+        },
+        {
+          class: "devicon-nodejs-plain",
+          name: "Node.js"
+        },
+        {
+          name: "Express",
+          class: "devicon-express-original",
+          level: "100"
+        },
+        {
+          class: "devicon-mongodb-plain",
+          name: "MongoDB"
+        },
+        {
+          name: "GraphQL",
+          class: "devicon-graphql-plain",
+          level: "100"
+        },
+        {
+          name: "AWS",
+          class: "devicon-amazonwebservices-original",
+          level: "100"
+        },
       ]
     }, {
       title: "LearningChemistry",
@@ -137,59 +165,31 @@ export const ResumeData = {
         }
       ]
     }, {
-      title: "Vegvisits",
-      startDate: "2024",
-      description: "This is an online booking platform for that connects travelers with vegan and vegetarian locals offering accommodations.",
+      title: "Crypto Tracker",
+      startDate: "2022",
+      description: "Crypto Tracker is a sleek and user-friendly web app that provides real-time tracking and analysis of popular cryptocurrencies. With live price data, historical charts, Crypto Tracker is a reliable tool for crypto enthusiasts to monitor and manage their investments effectively.",
       images: [
-        "images/vegtravel/image1.png",
-        "images/vegtravel/image2.png",
-        "images/vegtravel/image3.png",
-        "images/vegtravel/image4.png",
-        "images/vegtravel/image5.png",
+        "images/crypto/image1.png",
+        "images/crypto/image2.png",
+        "images/crypto/image3.png",
+        "images/crypto/image4.png",
+        "images/crypto/image5.png"
       ],
-      liveUrl: "https://vegvisits.com/",
+      liveUrl: "https://",
+      gitUrl: "https://",
       technologies: [
         {
-          name: "Next",
-          class: "devicon-nextjs-original",
-          level: "100"
-        },
-        {
-          class: "devicon-typescript-plain",
-          name: "Typescript"
+          class: "devicon-react-original",
+          name: "React"
         },
         {
           class: "devicon-javascript-plain",
           name: "JavaScript"
         },
         {
-          name: "MUI",
           class: "devicon-materialui-plain",
-          level: "100"
-        },
-        {
-          class: "devicon-nodejs-plain",
-          name: "Node.js"
-        },
-        {
-          name: "Express",
-          class: "devicon-express-original",
-          level: "100"
-        },
-        {
-          class: "devicon-mongodb-plain",
-          name: "MongoDB"
-        },
-        {
-          name: "GraphQL",
-          class: "devicon-graphql-plain",
-          level: "100"
-        },
-        {
-          name: "AWS",
-          class: "devicon-amazonwebservices-original",
-          level: "100"
-        },
+          name: "MaterialUI"
+        }
       ]
     }, {
       title: "What Time Is It?",
