@@ -112,8 +112,8 @@ export const ResumeData = {
         "images/myJam/image4.png",
 
       ],
-      liveUrl: "https://",
-      gitUrl: "https://",
+      liveUrl: "https://myjamworld.netlify.app/",
+      gitUrl: "https://github.com/softbesta/MyJAM_Front",
       technologies: [
         {
           class: "devicon-react-original",
